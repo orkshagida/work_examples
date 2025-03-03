@@ -1,0 +1,1640 @@
+Старый мнемоник,Новый мнемоник
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+SP,PS
+SP,PS
+SP,PS
+SP,PS
+SPR,PS
+SPCG,PS
+SPDL,PS
+SPLL,PS
+SPRL,PS
+CGSP,PS
+DFRM,REZ
+DPRM,REZ
+AFMR,REZ
+RMM5,REZ
+MRES,REZ
+MRES_SL,REZ
+HICRS,REZ
+ACRS,REZ
+AHCRS,REZ
+ASCRS,REZ
+RMSF,REZ
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+MINV,MGZ
+MINV,MGZ
+MINV,MGZ
+MRS1,MGZ
+MRS2,MGZ
+MR1F,MGZ
+MR2F,MGZ
+MNOR,MPZ
+MNOR,MPZ
+MNRL,MPZ
+DLL,BK
+HDLL,BK
+DLL,BK
+LL3,BK3
+LL3,BK3
+LL3,BK3
+LL7,BK7
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+CLLS,BKM
+MLR1,BKM
+MLR2,BKM
+RS,BKM
+LLS,BKM
+SLL,BKM
+DSLL,BKM
+FEFR,BKM
+FEFE,BKM
+MLR3,BKS
+MSF1,BKS
+CLLD,BKB
+MLR4,BKB
+RD,BKB
+LLD,BKB
+CLLD,BKB
+DLL,BKB
+DDLL,BKB
+AFRS (AFCS),ALLS
+HLLS,ALLS
+HARS (HACS),ALLS
+HAUS,ALLS
+HLSU,ALLS
+AFRM (AFCM),ALLM
+AFRD (AFCD),ALLD
+HLLD,ALLD
+HARD (HACD),ALLD
+HAUD,ALLD
+HLDU,ALLD
+MLL,BMK
+CMLL,BMK
+MLL,BMK
+LLS,BMK
+MLL,BMK
+CMLL,BMK
+MLL,BMK
+MRRS,BMK
+FMI,MLLS
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+CILS,IKM
+RILS,RIKM
+CIRM,IKS
+СILM,IKS
+CIPM,IKS
+CIMR,IKS
+RILM,IKS
+CILM,IKS
+CILM,IKS
+ILM,RIKS
+RILM,RIKS
+RIPM,RIKS
+ILM,RIKS
+RILM,RIKS
+CIRD,IKB
+СILD,IKB
+CIPD,IKB
+CIDR,IKB
+RILD,IKB
+СILD,IKB
+СILD,IKB
+ILD,RIKB
+RILD,RIKB
+RIPD,RIKB
+ILD,RIKB
+RILD,RIKB
+M0C1,I1A
+M1C1,I1A
+M2C1,I1A
+M4C1,I1A
+AOCO10,I1A
+AOCB10,I1A
+ATCO10,I1A
+ATCB10,I1A
+AFOCO10,I1A
+AFCB10,I1A
+AECO10,I1A
+M0R1,RI1
+M1R1,RI1
+M2R1,RI1
+M4R1,RI1
+AO10,RI1
+AT10,RI1
+AF10,RI1
+AE10,RI1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+M0C2,I2A
+M1C2,I2A
+M2C2,I2A
+M4C2,I2A
+AOCO20,I2A
+AOCB20,I2A
+ATCO20,I2A
+ATCB20,I2A
+AFOCO20,I2A
+AFCB20,I2A
+AECO20,I2A
+M0R2,RI2
+M1R2,RI2
+M2R2,RI2
+M4R2,RI2
+AO20,RI2
+AT20,RI2
+AF20,RI2
+AE20,RI2
+M0C3,I3A
+M1C3,I3A
+M2C3,I3A
+M4C3,I3A
+AOCO30,I3A
+AOCB30,I3A
+ATCO30,I3A
+ATCB30,I3A
+AFOCO30,I3A
+AFCB30,I3A
+AECO30,I3A
+M0R3,RI3
+M1R3,RI3
+M2R3,RI3
+M4R3,RI3
+AO30,RI3
+AT30,RI3
+AF30,RI3
+AE30,RI3
+M0C4,I4A
+M1C4,I4A
+M2C4,I4A
+M4C4,I4A
+AOCO60,I4A
+AOCB60,I4A
+ATCO60,I4A
+ATCB60,I4A
+AFOCO60,I4A
+AFCB60,I4A
+AECO60,I4A
+M0R4,RI4
+M1R4,RI4
+M2R4,RI4
+M4R4,RI4
+AO60,RI4
+AT60,RI4
+AF60,RI4
+AE60,RI4
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+M0C5,I5A
+M1C5,I5A
+M2C5,I5A
+M4C5,I5A
+AOCO90,I5A
+AOCB90,I5A
+ATCO90,I5A
+ATCB90,I5A
+AFOCO90,I5A
+AFCB90,I5A
+AECO90,I5A
+M0R5,RI5
+M1R5,RI5
+M2R5,RI5
+M4R5,RI5
+AO90,RI5
+AT90,RI5
+AF90,RI5
+AE90,RI5
+M0C6,I6A
+M1C6,I6A
+M2C6,I6A
+M4C6,I6A
+M0R6,RI6
+M1R6,RI6
+M2R6,RI6
+M4R6,RI6
+AFCS,AIKM
+AFCSC,AIKM
+AFRS,ARIKM
+AFRSC,ARIKM
+AFCM,AIKS
+AFCMC,AIKS
+AFRM,ARIKS
+AFRMC,ARIKS
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AFCD,AIKB
+AFCDC,AIKB
+AFRD,ARIKB
+AFRDC,ARIKB
+P1UP,ориг. обознач.1
+P1DN,ориг. обознач.1
+P2UP,ориг. обознач.1
+P2DN,ориг. обознач.1
+EWN,ориг. обознач.1
+EWF,ориг. обознач.1
+A1UP,ориг. обознач.1
+A1DN,ориг. обознач.1
+A2UP,ориг. обознач.1
+A2DN,ориг. обознач.1
+EWN,ориг. обознач.1
+EWF,ориг. обознач.1
+EPS,ориг. обознач.1
+SEPS,ориг. обознач.1
+PSUP_R,ориг. обознач.1
+PSDN_R,ориг. обознач.1
+PSHF_R,ориг. обознач.1
+EPS,ориг. обознач.1
+SEPS,ориг. обознач.1
+EWA,ориг. обознач.1
+ATUP_R,ориг. обознач.1
+ATDN_R,ориг. обознач.1
+ATTN_R,ориг. обознач.1
+EWA,ориг. обознач.1
+RPA,ориг. обознач.1
+EWP,ориг. обознач.1
+SEWP,ориг. обознач.1
+PSR,ориг. обознач.1
+PSRD,ориг. обознач.1
+PSRU,ориг. обознач.1
+EWP,ориг. обознач.1
+SEWP,ориг. обознач.1
+RAA,ориг. обознач.1
+ATR,ориг. обознач.1
+ATRD,ориг. обознач.1
+ATRU (CATR),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+EWC,ориг. обознач.1
+SEWC,ориг. обознач.1
+EWC,ориг. обознач.1
+SEWC,ориг. обознач.1
+UL1P,ориг. обознач.1
+UU1P,ориг. обознач.1
+AN09,ориг. обознач.1
+AF09,ориг. обознач.1
+AN12,ориг. обознач.1
+AF12,ориг. обознач.1
+AN18,ориг. обознач.1
+AF18,ориг. обознач.1
+EXN,ориг. обознач.1
+EXF,ориг. обознач.1
+P09,ориг. обознач.1
+P12,ориг. обознач.1
+P18,ориг. обознач.1
+PH15,ориг. обознач.1
+XPS,ориг. обознач.1
+A09,ориг. обознач.1
+A12,ориг. обознач.1
+A18,ориг. обознач.1
+UL1A,ориг. обознач.1
+UU1A,ориг. обознач.1
+EXA,ориг. обознач.1
+R09P (C09P),ориг. обознач.1
+R09PC (C09PC),ориг. обознач.1
+R12P (C12P),ориг. обознач.1
+R12PC (C12PC),ориг. обознач.1
+R18P (C18P),ориг. обознач.1
+R18PC (C18PC),ориг. обознач.1
+R15P (C15P),ориг. обознач.1
+EXP,ориг. обознач.1
+SEXP,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+R09A (C09A),ориг. обознач.1
+R09AC (C09AC),ориг. обознач.1
+R12A (C12A),ориг. обознач.1
+R12AC (C12AC),ориг. обознач.1
+R18A (C18A),ориг. обознач.1
+R18AC (C18AC),ориг. обознач.1
+R15A (C15A),ориг. обознач.1
+EXC,ориг. обознач.1
+SEXC,ориг. обознач.1
+UL2P,ориг. обознач.1
+UU2P,ориг. обознач.1
+AN15,ориг. обознач.1
+AF15,ориг. обознач.1
+AN20,ориг. обознач.1
+AF20,ориг. обознач.1
+AN24,ориг. обознач.1
+AF24,ориг. обознач.1
+ESN,ориг. обознач.1
+ESF,ориг. обознач.1
+P15,ориг. обознач.1
+P20,ориг. обознач.1
+P24,ориг. обознач.1
+PH25,ориг. обознач.1
+SPS,ориг. обознач.1
+A15,ориг. обознач.1
+A20,ориг. обознач.1
+A24,ориг. обознач.1
+UL2A,ориг. обознач.1
+UU2A,ориг. обознач.1
+ESA,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+R15P (C15P),ориг. обознач.1
+R15PC (C15PC),ориг. обознач.1
+R20P (C20P),ориг. обознач.1
+R20PC (C20PC),ориг. обознач.1
+R24P (C24P),ориг. обознач.1
+R24PC (C24PC),ориг. обознач.1
+R25P (C25P),ориг. обознач.1
+ESP,ориг. обознач.1
+SESP,ориг. обознач.1
+R15A (C15A),ориг. обознач.1
+R15AC (C15AC),ориг. обознач.1
+R20A (C20A),ориг. обознач.1
+R20AC (C20AC),ориг. обознач.1
+R24A (C24A),ориг. обознач.1
+R24AC (C24AC),ориг. обознач.1
+R25A (C25A),ориг. обознач.1
+ESC,ориг. обознач.1
+SESC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+UL3P,ориг. обознач.1
+UU3P,ориг. обознач.1
+AN27,ориг. обознач.1
+AF27,ориг. обознач.1
+AN28,ориг. обознач.1
+AF28,ориг. обознач.1
+AN30,ориг. обознач.1
+AF30,ориг. обознач.1
+EMN,ориг. обознач.1
+EMF,ориг. обознач.1
+P27,ориг. обознач.1
+P28,ориг. обознач.1
+P30,ориг. обознач.1
+PH35,ориг. обознач.1
+MPS,ориг. обознач.1
+A27,ориг. обознач.1
+A28,ориг. обознач.1
+A30,ориг. обознач.1
+UL3A,ориг. обознач.1
+UU3A,ориг. обознач.1
+EMA,ориг. обознач.1
+R27P (C27P),ориг. обознач.1
+R27PC (C27PC),ориг. обознач.1
+R28P (C28P),ориг. обознач.1
+R28PC (C28PC),ориг. обознач.1
+R30P (C30P),ориг. обознач.1
+R30PC (C30PC),ориг. обознач.1
+R35P (C35P),ориг. обознач.1
+EMP,ориг. обознач.1
+SEMP,ориг. обознач.1
+R27A (C27A),ориг. обознач.1
+R27AC (C27AC),ориг. обознач.1
+R28A (C28A),ориг. обознач.1
+R28AC (C28AC),ориг. обознач.1
+R30A (C30A),ориг. обознач.1
+R30AC (C30AC),ориг. обознач.1
+R35A (C35A),ориг. обознач.1
+EMC,ориг. обознач.1
+SEMC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AN39,ориг. обознач.1
+AF39,ориг. обознач.1
+AN42,ориг. обознач.1
+AF42,ориг. обознач.1
+AN44,ориг. обознач.1
+AF44,ориг. обознач.1
+EDN,ориг. обознач.1
+EDF,ориг. обознач.1
+P39,ориг. обознач.1
+P42,ориг. обознач.1
+P44,ориг. обознач.1
+DPS,ориг. обознач.1
+A39,ориг. обознач.1
+A42,ориг. обознач.1
+A44,ориг. обознач.1
+EMA,ориг. обознач.1
+R39P (C39P),ориг. обознач.1
+R39PC (C39PC),ориг. обознач.1
+R42P (C42P),ориг. обознач.1
+R42PC (C42PC),ориг. обознач.1
+R44P (C44P),ориг. обознач.1
+R44PC (C44PC),ориг. обознач.1
+EDP,ориг. обознач.1
+SEDP,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+R39A (C39A),ориг. обознач.1
+R39AC (C39AC),ориг. обознач.1
+R42A (C42A),ориг. обознач.1
+R42AC (C42AC),ориг. обознач.1
+R44A (C44A),ориг. обознач.1
+R44AC (C44AC),ориг. обознач.1
+EDC,ориг. обознач.1
+SEDC,ориг. обознач.1
+UL5P,ориг. обознач.1
+UU5P,ориг. обознач.1
+PH55,ориг. обознач.1
+UL5A,ориг. обознач.1
+UU5A,ориг. обознач.1
+R55P (C55P),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+R55A (C55A),ориг. обознач.1
+RPCHM,ориг. обознач.1
+RPCLM,ориг. обознач.1
+RACHM,ориг. обознач.1
+RACLM,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P112,ориг. обознач.1
+P114,ориг. обознач.1
+P212,ориг. обознач.1
+P214,ориг. обознач.1
+A112,ориг. обознач.1
+A114,ориг. обознач.1
+A212,ориг. обознач.1
+A214,ориг. обознач.1
+P10H (P10H_COND),ориг. обознач.1
+P10H_UNC,ориг. обознач.1
+P10L (P10L_COND),ориг. обознач.1
+"P10L_UNC
+ или
+P16H (P16H_COND)",ориг. обознач.1
+P16H_UNC,ориг. обознач.1
+P16L (P16L_COND),ориг. обознач.1
+P16L_UNC,ориг. обознач.1
+RSPH,ориг. обознач.1
+RSPL,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+A10H (A10H_COND),ориг. обознач.1
+A10H_UNC,ориг. обознач.1
+A10L (A10L_COND),ориг. обознач.1
+"A10L_UNC
+ или
+A16H (A16H_COND)",ориг. обознач.1
+A16H_UNC,ориг. обознач.1
+A16L (A16L_COND),ориг. обознач.1
+A16L_UNC,ориг. обознач.1
+RSAH,ориг. обознач.1
+RSAL,ориг. обознач.1
+P122,ориг. обознач.1
+P124,ориг. обознач.1
+P222,ориг. обознач.1
+P224,ориг. обознач.1
+A122,ориг. обознач.1
+A124,ориг. обознач.1
+A222,ориг. обознач.1
+A224,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P16H (P16H_COND),ориг. обознач.1
+P16H_UNC,ориг. обознач.1
+P16L (P16L_COND),ориг. обознач.1
+"P16L_UNC
+ или
+P22H (P22H_COND)",ориг. обознач.1
+P22H_UNC,ориг. обознач.1
+P22L (P22L_COND),ориг. обознач.1
+P22L_UNC,ориг. обознач.1
+A16H (A16H_COND),ориг. обознач.1
+A16H_UNC,ориг. обознач.1
+A16L (A16L_COND),ориг. обознач.1
+"A16L_UNC
+ или
+A22H (A22H_COND)",ориг. обознач.1
+A22H_UNC,ориг. обознач.1
+A22L (A22L_COND),ориг. обознач.1
+A22L_UNC,ориг. обознач.1
+P132,ориг. обознач.1
+P134,ориг. обознач.1
+P232,ориг. обознач.1
+P234,ориг. обознач.1
+A132,ориг. обознач.1
+A134,ориг. обознач.1
+A232,ориг. обознач.1
+A234,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RPCSHM,ориг. обознач.1
+RPCSLM,ориг. обознач.1
+P22H (P22H_COND),ориг. обознач.1
+P22H_UNC,ориг. обознач.1
+P22L (P22L_COND),ориг. обознач.1
+"P22L_UNC
+ или
+P28H (P28H_COND)",ориг. обознач.1
+P28H_UNC,ориг. обознач.1
+P28L (P28L_COND),ориг. обознач.1
+P28L_UNC,ориг. обознач.1
+RMPH,ориг. обознач.1
+RMPL,ориг. обознач.1
+RACSHM,ориг. обознач.1
+RACSLM,ориг. обознач.1
+A22H (A22H_COND),ориг. обознач.1
+A22H_UNC,ориг. обознач.1
+A22L (A22L_COND),ориг. обознач.1
+"A22L_UNC
+ или
+A28H (A28H_COND)",ориг. обознач.1
+A28H_UNC,ориг. обознач.1
+A28L (A28L_COND),ориг. обознач.1
+A28L_UNC,ориг. обознач.1
+RMAH,ориг. обознач.1
+RMAL,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P142,ориг. обознач.1
+P144,ориг. обознач.1
+P242,ориг. обознач.1
+P244,ориг. обознач.1
+A142,ориг. обознач.1
+A144,ориг. обознач.1
+A242,ориг. обознач.1
+A244,ориг. обознач.1
+P28H (P28H_COND),ориг. обознач.1
+P28H_UNC,ориг. обознач.1
+P28L (P28L_COND),ориг. обознач.1
+"P28L_UNC
+ или
+P34H (P34H_COND)",ориг. обознач.1
+P34H_UNC,ориг. обознач.1
+P34L (P34L_COND),ориг. обознач.1
+P34L_UNC,ориг. обознач.1
+A28H (A28H_COND),ориг. обознач.1
+A28H_UNC,ориг. обознач.1
+A28L (A28L_COND),ориг. обознач.1
+"A28L_UNC
+ или
+A34H (A34H_COND)",ориг. обознач.1
+A34H_UNC,ориг. обознач.1
+A34L (A34L_COND),ориг. обознач.1
+A34L_UNC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P152,ориг. обознач.1
+P154,ориг. обознач.1
+P252,ориг. обознач.1
+P254,ориг. обознач.1
+A152,ориг. обознач.1
+A154,ориг. обознач.1
+A252,ориг. обознач.1
+A254,ориг. обознач.1
+RPCHM,ориг. обознач.1
+RPCLM,ориг. обознач.1
+P34H (P34H_COND),ориг. обознач.1
+P34H_UNC,ориг. обознач.1
+P34L (P34L_COND),ориг. обознач.1
+"P34L_UNC
+ или
+P40H (P40H_COND)",ориг. обознач.1
+P40H_UNC,ориг. обознач.1
+P40L (P40L_COND),ориг. обознач.1
+P40L_UNC,ориг. обознач.1
+RDPH,ориг. обознач.1
+RDPL,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RACHM,ориг. обознач.1
+RACLM,ориг. обознач.1
+A34H (A34H_COND),ориг. обознач.1
+A34H_UNC,ориг. обознач.1
+A34L (A34L_COND),ориг. обознач.1
+"A34L_UNC
+ или
+A40H (A40H_COND)",ориг. обознач.1
+A40H_UNC,ориг. обознач.1
+A40L (A40L_COND),ориг. обознач.1
+A40L_UNC,ориг. обознач.1
+RDAH,ориг. обознач.1
+RDAL,ориг. обознач.1
+P16H1,ориг. обознач.1
+P16H2,ориг. обознач.1
+P16M1,ориг. обознач.1
+P16M2,ориг. обознач.1
+P16L1,ориг. обознач.1
+P16L2,ориг. обознач.1
+A16H1,ориг. обознач.1
+A16H2,ориг. обознач.1
+A16M1,ориг. обознач.1
+A16M2,ориг. обознач.1
+A16L1,ориг. обознач.1
+A16L3,ориг. обознач.1
+P16H,ориг. обознач.1
+P16M,ориг. обознач.1
+P16L,ориг. обознач.1
+A16H,ориг. обознач.1
+A16M,ориг. обознач.1
+A16L,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RH16P (CH16P),ориг. обознач.1
+RH16PC (CH16PC),ориг. обознач.1
+RM16P (CM16P),ориг. обознач.1
+RM16PC (CM16PC),ориг. обознач.1
+RL16P (CL16P),ориг. обознач.1
+RL16PC (CL16PC),ориг. обознач.1
+RH16A (CH16A),ориг. обознач.1
+RH16AC (CH16AC),ориг. обознач.1
+RM16A (CM16A),ориг. обознач.1
+RM16AC (CM16AC),ориг. обознач.1
+RL16A (CL16A),ориг. обознач.1
+RL16AC (CL16AC),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P24H1,ориг. обознач.1
+P24H2,ориг. обознач.1
+P24M1,ориг. обознач.1
+P24M2,ориг. обознач.1
+P24L1,ориг. обознач.1
+P24L2,ориг. обознач.1
+A24H1,ориг. обознач.1
+A24H2,ориг. обознач.1
+A24M1,ориг. обознач.1
+A24M2,ориг. обознач.1
+A24L1,ориг. обознач.1
+A24L3,ориг. обознач.1
+P24H,ориг. обознач.1
+P24M,ориг. обознач.1
+P24L,ориг. обознач.1
+A24H,ориг. обознач.1
+A24M,ориг. обознач.1
+A24L,ориг. обознач.1
+RH24P (CH24P),ориг. обознач.1
+RH24PC (CH24PC),ориг. обознач.1
+RM24P (CM24P),ориг. обознач.1
+RM24PC (CM24PC),ориг. обознач.1
+RL24P (CL24P),ориг. обознач.1
+RL24PC (CL24PC),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RH24A (CH24A),ориг. обознач.1
+RH24AC (CH24AC),ориг. обознач.1
+RM24A (CM24A),ориг. обознач.1
+RM24AC (CM24AC),ориг. обознач.1
+RL24A (CL24A),ориг. обознач.1
+RL24AC (CL24AC),ориг. обознач.1
+P32H1,ориг. обознач.1
+P32H2,ориг. обознач.1
+P32M1,ориг. обознач.1
+P32M2,ориг. обознач.1
+P32L1,ориг. обознач.1
+P32L2,ориг. обознач.1
+A32H1,ориг. обознач.1
+A32H2,ориг. обознач.1
+A32M1,ориг. обознач.1
+A32M2,ориг. обознач.1
+A32L1,ориг. обознач.1
+A32L3,ориг. обознач.1
+P32H,ориг. обознач.1
+P32M,ориг. обознач.1
+P32L,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+A32H,ориг. обознач.1
+A32M,ориг. обознач.1
+A32L,ориг. обознач.1
+RH32P (CH32P),ориг. обознач.1
+RH32PC (CH32PC),ориг. обознач.1
+RM32P (CM32P),ориг. обознач.1
+RM32PC (CM32PC),ориг. обознач.1
+RL32P (CL32P),ориг. обознач.1
+RL32PC (CL32PC),ориг. обознач.1
+RH32A (CH32A),ориг. обознач.1
+RH32AC (CH32AC),ориг. обознач.1
+RM32A (CM32A),ориг. обознач.1
+RM32AC (CM32AC),ориг. обознач.1
+RL32A (CL32A),ориг. обознач.1
+RL32AC (CL32AC),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+P40H1,ориг. обознач.1
+P40H2,ориг. обознач.1
+P40M1,ориг. обознач.1
+P40M2,ориг. обознач.1
+P40L1,ориг. обознач.1
+P40L2,ориг. обознач.1
+A40H1,ориг. обознач.1
+A40H2,ориг. обознач.1
+A40M1,ориг. обознач.1
+A40M2,ориг. обознач.1
+A40L1,ориг. обознач.1
+A40L3,ориг. обознач.1
+P40H,ориг. обознач.1
+P40M,ориг. обознач.1
+P40L,ориг. обознач.1
+A40H,ориг. обознач.1
+A40M,ориг. обознач.1
+A40L,ориг. обознач.1
+RH40P (CH40P),ориг. обознач.1
+RH40PC (CH40PC),ориг. обознач.1
+RM40P (CM40P),ориг. обознач.1
+RM40PC (CM40PC),ориг. обознач.1
+RL40P (CL40P),ориг. обознач.1
+RL40PC (CL40PC),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RH40A (CH40A),ориг. обознач.1
+RH40AC (CH40AC),ориг. обознач.1
+RM40A (CM40A),ориг. обознач.1
+RM40AC (CM40AC),ориг. обознач.1
+RL40A (CL40A),ориг. обознач.1
+RL40AC (CL40AC),ориг. обознач.1
+P48H1,ориг. обознач.1
+P48H2,ориг. обознач.1
+P48M1,ориг. обознач.1
+P48M2,ориг. обознач.1
+P48L1,ориг. обознач.1
+P48L2,ориг. обознач.1
+A48H1,ориг. обознач.1
+A48H2,ориг. обознач.1
+A48M1,ориг. обознач.1
+A48M2,ориг. обознач.1
+A48L1,ориг. обознач.1
+A48L3,ориг. обознач.1
+P48H,ориг. обознач.1
+P48M,ориг. обознач.1
+P48L,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+A48H,ориг. обознач.1
+A48M,ориг. обознач.1
+A48L,ориг. обознач.1
+RH48P (CH48P),ориг. обознач.1
+RH48PC (CH48PC),ориг. обознач.1
+RM48P (CM48P),ориг. обознач.1
+RM48PC (CM48PC),ориг. обознач.1
+RL48P (CL48P),ориг. обознач.1
+RL48PC (CL48PC),ориг. обознач.1
+RH48A (CH48A),ориг. обознач.1
+RH48AC (CH48AC),ориг. обознач.1
+RM48A (CM48A),ориг. обознач.1
+RM48AC (CM48AC),ориг. обознач.1
+RL48A (CL48A),ориг. обознач.1
+RL48AC (CL48AC),ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AH16P,ориг. обознач.1
+AM16P,ориг. обознач.1
+AL16P,ориг. обознач.1
+AH16A,ориг. обознач.1
+AM16A,ориг. обознач.1
+AL16A,ориг. обознач.1
+ARH16P,ориг. обознач.1
+ARH16PC,ориг. обознач.1
+ARM16P,ориг. обознач.1
+ARM16PC,ориг. обознач.1
+ARL16P,ориг. обознач.1
+ARL16PC,ориг. обознач.1
+ARH16A,ориг. обознач.1
+ARH16AC,ориг. обознач.1
+ARM16A,ориг. обознач.1
+ARM16AC,ориг. обознач.1
+ARL16A,ориг. обознач.1
+ARL16AC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AH24P,ориг. обознач.1
+AM24P,ориг. обознач.1
+AL24P,ориг. обознач.1
+AH24A,ориг. обознач.1
+AM24A,ориг. обознач.1
+AL24A,ориг. обознач.1
+ARH24P,ориг. обознач.1
+ARH24PC,ориг. обознач.1
+ARM24P,ориг. обознач.1
+ARM24PC,ориг. обознач.1
+ARL24P,ориг. обознач.1
+ARL24PC,ориг. обознач.1
+ARH24A,ориг. обознач.1
+ARH24AC,ориг. обознач.1
+ARM24A,ориг. обознач.1
+ARM24AC,ориг. обознач.1
+ARL24A,ориг. обознач.1
+ARL24AC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AH32P,ориг. обознач.1
+AM32P,ориг. обознач.1
+AL32P,ориг. обознач.1
+AH32A,ориг. обознач.1
+AM32A,ориг. обознач.1
+AL32A,ориг. обознач.1
+ARH32P,ориг. обознач.1
+ARH32PC,ориг. обознач.1
+ARM32P,ориг. обознач.1
+ARM32PC,ориг. обознач.1
+ARL32P,ориг. обознач.1
+ARL32PC,ориг. обознач.1
+ARH32A,ориг. обознач.1
+ARH32AC,ориг. обознач.1
+ARM32A,ориг. обознач.1
+ARM32AC,ориг. обознач.1
+ARL32A,ориг. обознач.1
+ARL32AC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AH40P,ориг. обознач.1
+AM40P,ориг. обознач.1
+AL40P,ориг. обознач.1
+AH40A,ориг. обознач.1
+AM40A,ориг. обознач.1
+AL40A,ориг. обознач.1
+ARH40P,ориг. обознач.1
+ARH40PC,ориг. обознач.1
+ARM40P,ориг. обознач.1
+ARM40PC,ориг. обознач.1
+ARL40P,ориг. обознач.1
+ARL40PC,ориг. обознач.1
+ARH40A,ориг. обознач.1
+ARH40AC,ориг. обознач.1
+ARM40A,ориг. обознач.1
+ARM40AC,ориг. обознач.1
+ARL40A,ориг. обознач.1
+ARL40AC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AH48P,ориг. обознач.1
+AM48P,ориг. обознач.1
+AL48P,ориг. обознач.1
+AH48A,ориг. обознач.1
+AM48A,ориг. обознач.1
+AL48A,ориг. обознач.1
+ARH48P,ориг. обознач.1
+ARH48PC,ориг. обознач.1
+ARM48P,ориг. обознач.1
+ARM48PC,ориг. обознач.1
+ARL48P,ориг. обознач.1
+ARL48PC,ориг. обознач.1
+ARH48A,ориг. обознач.1
+ARH48AC,ориг. обознач.1
+ARM48A,ориг. обознач.1
+ARM48AC,ориг. обознач.1
+ARL48A,ориг. обознач.1
+ARL48AC,ориг. обознач.1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+DF05,IK05
+RK05,RO05
+DF06,IK06
+RK06,RO06
+DF07,IK07
+RK07,RO07
+DF08,IK08
+RK08,RO08
+DF10,IK10
+RK10,RO10
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+DF12,IK12
+RK12,RO12
+DF14,IK14
+RK14,RO14
+DF16,IK16
+RK16,RO16
+DF20,IK20
+RK20,RO20
+DEL4,DL
+DEL2,DL
+DIEL,DL
+EPDC,DL
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+PSDO,EPL
+PSUP,EPL
+EATT,EPL_p
+EPS,EPL_p
+T2MFFI,FFI_1
+CMFF,FFI_1
+FFV,FFI_1
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+LWD-MR,PNMR
+MREX,PNMR
+MRIL,PNMR
+CMR,PNMR
+MT_PHIAM,MPHS
+MPHS,MPHS
+T2PTOT,MPHS
+TCMR,MPHS
+CMRP,MPHS
+MT_PHEM,MFFI
+MPHE,MFFI
+PORE,MFFI
+MT_BWM,KVO
+MBW,KVO
+T2DWB,KVO
+BFV,KVO
+MT_BVIM,MBVI
+MBVI,MBVI
+T2MBVI,MBVI
+MT_CBWM,MCBW
+MCBV,MCBW
+MT_PERMM,PMTM
+MPRM,PMTM
+MPERM,PMTM
+T2KCOAT,PMTM
+KSDR,PMTM
+KTIM,PMTM
+KBFV,PMTM
+KDMR,PMTM
+MTDISTCM,T2
+T2DIS,T2
+T2_DIST,T2
+TPORC01-27,BP0-BPBN
+P1AF-P9AF,BP0-BPBN
+P1BF-P9BF,BP0-BPBN
+CBP1-7,BP0-BPBN
+MBP1-7,BP0-BPBN
+MAG,MSL
+DMAG,MSL
+MRIL,MSL
+GR,GK
+GRAM,GK
+GRBM,GK
+GRCM,GK
+GRAFM,GK
+GRBFM,GK
+GRCFM,GK
+GR,GK
+PGGR,GK
+PGRC,GK
+DGRC,GK
+DGRCC,GK
+GR,GK
+HGR,GK
+GR_EDTC,GK
+GRC,GK
+GR,GK
+SGRC,GK
+GR,GK
+GRDI,GK
+GR,GK
+GRAM,GK
+GRBM,GK
+GRCM,GK
+GRAFM,GK
+GRBFM,GK
+GRCFM,GK
+GR,GK
+PGGR,GK
+PGRC,GK
+DGRC,GK
+DGRCC,GK
+GR,GK
+HGR,GK
+GR_EDTC,GK
+GRC,GK
+GR,GK
+SGRC,GK
+GR,GK
+GRDI,GK
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+GRASM,AGK
+GRBSM,AGK
+GRCSM,AGK
+GRASM,AGK
+GRBSM,AGK
+GRCSM,AGK
+DSL,SGR
+SL,SGR
+PGGR,SGR
+PGRC,SGR
+SGR,SGR
+SGR,SGR
+ASGR,SGR
+GRSG,SGR
+DSL,SGR
+SL,SGR
+PGGR,SGR
+PGRC,SGR
+SGR,SGR
+SGR,SGR
+ASGR,SGR
+GRSG,SGR
+U,URAN
+UAPI,URAN
+GRUR,URAN
+URAN,URAN
+URAN,URAN
+HURA,URAN
+GRUR,URAN
+U,URAN
+UAPI,URAN
+GRUR,URAN
+URAN,URAN
+URAN,URAN
+HURA,URAN
+GRUR,URAN
+TH,THOR
+TAPI,THOR
+GRTH,THOR
+THOR,THOR
+THOR,THOR
+HTHO,THOR
+GRTH,THOR
+TH,THOR
+TAPI,THOR
+GRTH,THOR
+THOR,THOR
+THOR,THOR
+HTHO,THOR
+GRTH,THOR
+K,POTA
+KAPI,POTA
+GRK,POTA
+POTA,POTA
+POTA,POTA
+HFK,POTA
+GRPO,POTA
+K,POTA
+KAPI,POTA
+GRK,POTA
+POTA,POTA
+POTA,POTA
+HFK,POTA
+GRPO,POTA
+DEN,GGP
+DNC,GGP
+BDCM,GGP
+RHOB,GGP
+ROBA,GGP
+HRHO,GGP
+NRHO,GGP
+HNRH,GGP
+RBD,GGP
+DEN,GGP
+SDRO,DGGP
+LDEN,GGB
+DLAM,GGB
+BLM,GGB
+RHL,GGB
+RHOL,GGB
+HLHR,GGB
+SSRH,GGB
+CH3,GGB
+CH4,GGB
+DCRF,GGB
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+SDEN,GGM
+DSAM,GGM
+BSM,GGM
+RHS,GGM
+RHOS,GGM
+HSHR,GGM
+CH1,GGM
+CH2,GGM
+DCRN,GGM
+ADRH1-ADRH16,AGGP
+ABDCM,AGGP
+ABDCDM,AGGP
+ABDCLM,AGGP
+ABDCRM,AGGP
+ABDCUM,AGGP
+ABDCF01-ABCDF16,AGGP
+ALCDA,AGGP
+ALCDHC,AGGP
+ROSC,AGGP
+RHOBA,AGGP
+ADLA1-ADLA16,AGGB
+ALFDA,AGGB
+RLSC,AGGB
+ADSA1-ADSA16,AGGM
+ALNDA,AGGM
+RSSC,AGGM
+ZDL,GGLP
+ZDEN,GGLP
+BDCM,GGLP
+BDCUM,GGLP
+BDCFM,GGLP
+ALCDLC,GGLP
+RHOM,GGLP
+RHOB,GGLP
+BDC,GGLP
+DEN,GGLP
+PE,Pe
+DPEM,Pe
+DPEFM,Pe
+ALPELC,Pe
+PEF,Pe
+HPEF,Pe
+ULDS,Pe
+PE,Pe
+NPE,Pe
+FPE,Pe
+PDPE,Pe
+PEDF,Pe
+PEDN,Pe
+DLAM,GGLB
+DLAFM,GGLB
+TCRL,GGLB
+FW1-3,GGLB
+PDFC,GGLB
+DSAM,GGLM
+DSAFM,GGLM
+TCRS,GGLM
+NW1-3,GGLM
+PDNC,GGLM
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+ALCDLC,AGGLP
+APE1-APE16,APe
+ALPELC,APe
+CN,NNKnt
+SWN,NNKnt
+DSEN,NNKnt
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+NFAR,NNBnt
+NNEAR,NNMnt
+CNT,NNKt
+TDS,NNKt
+NPBM,WNNKt
+TNPS,WNNKt
+TNPL,WNNKt
+NKTR,WNNKt
+NRAT,WNNKt
+TPOR,WNNKt
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+NFBM,NNBt
+TNFA,NNBt
+FCNT,NNBt
+HCFT,NNBt
+RCFT,NNBt
+CFTC,NNBt
+DNFD,NNBt
+NFAR,NNBt
+NFA,NNBt
+DNFD,NNBt
+NCRF,NNBt
+TCRF,NNBt
+NNBM,NNMt
+TNNA,NNMt
+NCNT,NNMt
+HCNT,NNMt
+RCNT,NNMt
+CNTC,NNMt
+DNND,NNMt
+NNEAR,NNMt
+NNA,NNMt
+DNND,NNMt
+NCRN,NNMt
+TCRN,NNMt
+NEU,NGK
+NGK,NGK
+NGR,NGK
+NPBM,WNGK
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+ECS,NGK-S
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+CO,INNK-S
+SS,INNK-S
+TMDGR,INNK-S
+CSNG,INNK-S
+F1C,INNK-S
+F1CA,INNK-S
+F1FE,INNK-S
+F1O,INNK-S
+F1SI,INNK-S
+F2CL,INNK-S
+F2FE,INNK-S
+F2GD,INNK-S
+F2H,INNK-S
+F2K,INNK-S
+F2MG,INNK-S
+F2TI,INNK-S
+F2S,INNK-S
+N1C,INNK-S
+N1CA,INNK-S
+N1FE,INNK-S
+N1O,INNK-S
+N1SI,INNK-S
+N2CA,INNK-S
+N2CL,INNK-S
+N2FE,INNK-S
+N2GD,INNK-S
+N2H,INNK-S
+N2K,INNK-S
+N2MG,INNK-S
+N2S,INNK-S
+N2SI,INNK-S
+N2TI,INNK-S
+SGFC,SIGMA
+SIGM,SIGMA
+SWEC,-
+TPHI,-
+ACASI,"С/О, Ca/Si"
+ACCO,"С/О, Ca/Si"
+CCCO,"С/О, Ca/Si"
+CCCS,"С/О, Ca/Si"
+NCOR,"С/О, Ca/Si"
+FCOR,"С/О, Ca/Si"
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+AC,AL
+DAL,AL
+MAC,AL
+MAC2,AL
+BCS,AL
+BCSD,AL
+BCSBB,AL
+BCSBD,AL
+BCSFA,AL
+BCSHA,AL
+SLS,AL
+CSS,AL
+DT,DTP
+DT1,DTP
+DT2,DTP
+SVEL,Vp
+TT1,TP1
+TT2,TP2
+AC,WAL
+LSS,WAL
+TTC,TP1-16
+TTS,TS1-16
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+TTST,TSt1-16
+DTPX,DTP
+DTC,DTP
+DTP,DTP
+DTS,DTS
+DTS,DTS
+DTST,DTSt
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+XMAC,CDAL
+DSST,CDAL
+DSI,CDAL
+TTC,TP1-8
+TTRP,TP1-8
+T1,TP1-8
+TTS,TS1-8
+TTRS,TS1-8
+T2,TS1-8
+TTST,TSt1-8
+SVEL,Vp
+SSVE,Vs
+DTPX,DTP
+DTCO,DTP
+DTC (DT),DTP
+DTS,DTS
+DTSM,DTS
+DTSF,DTS
+DTSS,DTL
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+DTST,DTSt
+DTST,DTSt
+DTST,DTSt
+EERP,AP1-8
+EERS,AS1-8
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+UBI,USL
+BHTV,ATW
+TTWF,T_ATW
+AMWF,A_ATW
+TEMP,ТМ
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+принятое компанией-разработчиком,"1) - в качестве латинского обозначения данного метода (параметра) рекомендуется использовать обозначение, принятое компанией-разработчиком"
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+DEVI,DEVI
+DEVI,DEVI
+DEVI,DEVI
+HAZI,AZIM
+HAZI,AZIM
+AZIM,AZIM
+AZID,AZIM
+CAL,DS
+4CAL,DS
+WCAL,DS
+CALM,DS
+MAC,DS
+CALI,DS
+CLDC (CAL),DS
+MCALI,MDS
+CALE,MDS
+CADF,MDS
+CAMR,MDS
+MLTC,MDS
+MLCP,MDS
+CLTC,MDS
+TCCP,MDS
+CRAD,RS
+CR00-CR23,RS
+CAL1-CAL8,RS
+C1,DS1
+CALX,DS1
+CAXR,DS1
+C2,DS2
+CALY,DS2
+CAYR,DS2
+CBIL,PFG
+AWS_BRC_CBIL,PFG
+AWS_BR_CBIL,PFG
+CBL,CM1-CM8
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+BAL,A_k
+SBT,A_k
+G_CBL,A_k
+NFPI,A_k
+ABHC,D_k
+SA1-6,A_p
+DT,T_p1-T_p2
+NATN,D_p
+WFI,FKD
+TEMP (TCDM),ТМ
+TEMP,ТМ
+TEMP,ТМ
+TMPC,ТМ
+TEMPS,ТМ
+CCL,LM
+UCCL,LM
+CCL,LM
+CCL,LM
+CCCL,LM
+CCLG,LM
+CCLP,LM
+COLD,LM
+CCL,LM
+THCK,TOL
+USIT,CAT
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+FMCS,DFSm
+FMS,DFSm
+CFM,DFSm
+CFS,DFSm
+TMFP,RT
+EFM,RT
+FTOT/ FLOC,RT
+TEMP,TM
+HTT,TM
+DTEP,TM
+SG,MN
+CHMS,MN
+PGMS,MN
+ZDN,GGP
+FLD,GGP
+DGT,GGP
+FDEN,GGP
+TTRM,MRES
+FDEN,MRES
+WHI,VL
+SAL1,VL
+RMSF,VSM
+SON,SH
+ASMT,SH
+Baker Hughes,латиницей
+Halliburton,латиницей
+Schlumberger,латиницей
+Pathfinder,латиницей
+Sperry-Sun,латиницей
+Weatherford (Reeves),латиницей
+RFT,MDT
+MDT,MDT
